@@ -11,13 +11,13 @@
  - [x] Setup vite
 
 ## Setup REST API
- - [ ] Initialize project and add .gitignore
- - [ ] Install and setup express `npm i express`
- - [ ] Add cors
- - [ ] Add furniture controller
+ - [x] Initialize project and add .gitignore
+ - [x] Install and setup express `npm i express`
+ - [x] Add cors
+ - [x] Add furniture controller
 
 ## Authentication and Authorization
- - [ ] Create user controller
+ - [x] Create user controller
  - [ ] Add json parser
  - [ ] Add register endpoint
  - [ ] Add and config database `npm i mongoose`
