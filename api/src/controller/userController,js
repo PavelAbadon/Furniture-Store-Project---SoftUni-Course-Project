@@ -3,6 +3,11 @@ import {Router} from 'express';
 const userController = Router();
 
 userController.post('/register', async (req, res) =>{
+    const userData =  req.body;
+
+    console.log(userData.email);
+    console.log(userData.password);
+
 
     res.end();
 } )
